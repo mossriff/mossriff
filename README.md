@@ -1,27 +1,18 @@
-<div align="center">
+### hi, i'm mossriff
 
-# hi, im mossriff
+i make games, websites and small programs. lately it's almost all rust.
 
-*d1 lazy bum. i make games, websites, and little programs for fun*
+**about ai**
 
-[![website](https://img.shields.io/badge/mossriff.com-282828?style=flat-square&logo=firefoxbrowser&logoColor=B8BB26)](https://mossriff.com)
+i largely dislike ai, mostly because it makes slop so easy to produce, and slop is filling up the internet. i'm not gonna say it's the next best thing since sliced bread.
 
-</div>
+i do think it can speed up writing code, and i use it for that. a lot of my code is written with claude code. but i don't think vibe coding should be pushed on lots of people. these projects are just personal doohickeys i made for myself, and i'm sharing them in case somebody else finds them useful. i also don't think i can fully call them my own. the ideas are mine, i made them work exactly how i wanted, and i made sure they run well. the code itself was still written by ai.
 
----
+**things i've made**
 
-### me
+- [**crate**](https://github.com/mossriff/crate-desktop): a music player for linux. it plays your own navidrome library, finds songs you don't have yet, and can bring your spotify playlists over. it idles under 1% cpu in about 50 mb of memory.
+- **smorgasboard**: a soundboard and audio router for vrchat on linux, made to be used from inside vr.
+- **warslopgame**: a browser game for school.
+- [**mossriff.com**](https://mossriff.com): my website.
 
-- got into rust and now everything is rust
-- opening claude code because im too lazy to write the same shit myself
-- fun fact: sharks dont have bones
-- i swear im an interesting person
-
-### projects
-
-| thing | what it is |
-|-------|-----------|
-| [**mossriff.com**](https://mossriff.com) | my website |
-| **crate** | native rust music player for a self-hosted navidrome library |
-| **smorgasboard** | linux soundboard + audio router + chatbox for vrchat, built for use in vr |
-| **warslopgame** | the game to rule all browser games in school |
+most of these are private for now. crate is the first one i've made public.
