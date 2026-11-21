@@ -1,12 +1,12 @@
 ### hi, i'm mossriff
 
-i make games, websites and small programs. lately it's almost all rust.
+here you'll find my website and personal projects, mostly in rust.
 
-**about ai**
+**about ai and its use**
 
-i largely dislike ai, mostly because it makes slop so easy to produce, and slop is filling up the internet. i'm not gonna say it's the next best thing since sliced bread.
+i largely dislike ai, mostly because it makes slop so easy to produce, and slop is filling up the internet, and i'm not gonna say it's the next best thing since sliced bread.
 
-i do think it can speed up writing code, and i use it for that. a lot of my code is written with claude code. but i don't think vibe coding should be pushed on lots of people. these projects are just personal doohickeys i made for myself, and i'm sharing them in case somebody else finds them useful. i also don't think i can fully call them my own. the ideas are mine, i made them work exactly how i wanted, and i made sure they run well. the code itself was still written by ai.
+i do think it can speed up writing code, and i use it for that. a lot of my code is written with claude code. but i don't think vibe coding should be pushed on lots of people. these projects are just personal doohickeys i made for myself, and i'm sharing them in case somebody else finds them useful. i will never sell a product that uses ai, ai functions because its trained off the works of talented people, so therefore if i use ai it will always be open source under a GPL 3.0 license. among that i also don't think i can fully call them my own, all ideas are mine, ive tweaked it to how i see fit, and i made sure that it fits my standards of reliability and optimization.
 
 **things i've made**
 
