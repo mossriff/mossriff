@@ -6,7 +6,7 @@ here you'll find my website and personal projects, mostly in rust.
 
 i largely dislike ai, mostly because it makes slop so easy to produce, and slop is filling up the internet, and i'm not gonna say it's the next best thing since sliced bread.
 
-i do think it can speed up writing code, and i use it for that. a lot of my code is written with claude code. these projects are just personal doohickeys i made for myself, and i'm sharing them in case somebody else finds them useful. i will never sell anything that uses ai, ai functions because its trained off the works of talented people, so therefore if i use ai it will always be open source under a GPL 3.0 license. on top of that, i also don't think i can fully call them my own, all ideas are mine and ive tweaked it to how i see fit, and i made sure that it fits my standards of reliability and optimization.
+i do think it can speed up writing code, and i use it for that. a lot of my code is written with claude code. these projects are just personal doohickeys i made for myself, and i'm sharing them in case somebody else finds them useful. i will never sell anything that uses ai, ai functions because its trained off the works of talented people, so therefore if i use ai it will always be open source under a GPL 3.0 license. on top of that, i also don't think i can fully call them my own, all ideas are mine and ive tweaked it to how i see fit, and i made sure that it fits my standards of reliability, stability, and optimization. yet the code is largely written by ai.
 
 **things i've made**
 
